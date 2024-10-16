@@ -38,6 +38,6 @@ void genMap(int32_t w, int32_t h, std::string f_name) {
 }
 
 int main(void) {
-    genMap(30, 30, "map2.txt");
+    genMap(30, 30, "map.txt");
     return 0;
 }

@@ -5,7 +5,7 @@ graph g;
 
 int main(void) {
     std::ifstream map;
-    map.open("map2.txt");
+    map.open("map.txt");
     std::cout << "Reading from file" << std::endl;
     std::string row;
     Tile starting_t;
